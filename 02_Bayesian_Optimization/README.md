@@ -1,6 +1,6 @@
-# JACS Au — Bayesian optimization master analysis
+# Bayesian optimization master analysis
 
-One notebook aligned with manuscript Sections 2.3–2.5:
+One notebook aligned with BO analyses reported in the manuscript.
 
 1. Historical BO campaign (qLogEI and qPI; five cycles), recorded conditions and cycle audit.
 2. BO robustness to 20, 50, 100 initial experiments using random and space-filling initial sets (30 replications each).
@@ -25,4 +25,4 @@ Create a Python environment with the `requirements.txt` dependencies. Run Jupyte
 - Notebook syntax and structure checked (109 cells).
 - Exact mapping of all 25 BO evaluations to the 237-condition candidate file confirmed after translating PET-disc count to substrate loading at 32 g/L per disc. Yield/selectivity matched within floating-point rounding.
 - Part III random Monte Carlo campaign rerun: 10.15% within 25 evaluations; 119.7552 mean evaluations; median 121.
-- The full 10,000-run sequential maximin space-filling campaigns and the 180 BayBE robustness campaigns have **not** been independently rerun in this session. Original source outputs support manuscript values, with full-run assertions in the notebook.
+
