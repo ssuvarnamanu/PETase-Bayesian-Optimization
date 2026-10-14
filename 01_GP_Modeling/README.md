@@ -1,6 +1,6 @@
 # Gaussian-process modeling and independent validation
 
-This folder supports the GP analyses reported in the JACS Au manuscript revisions.
+This folder supports the GP analyses reported in the manuscript.
 
 ## Notebook
 
