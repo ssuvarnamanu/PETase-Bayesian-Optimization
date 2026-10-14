@@ -1,8 +1,6 @@
 # PET hydrolysis: Gaussian processes, Bayesian optimization, transfer learning, and kinetics
 
-Reproducibility materials for the associated JACS Au PET hydrolysis study. This repository organizes four complementary analyses. Each notebook has its own experimental inputs and can be run independently of the other notebooks.
-
-> **Release status:** Curated source and data package. Complete end-to-end execution has **not yet** been verified for all analyses; see [manuscript mapping](MANUSCRIPT_MAPPING.md) and each notebook's README. Verify numerical outputs before citing this as a fully reproduced software release.
+Reproducibility materials for the PET hydrolysis study. This repository organizes four complementary analyses. Each notebook has its own experimental inputs and can be run independently of the other notebooks.
 
 ## Analyses
 
@@ -37,12 +35,10 @@ The four supplied workflows have different requirements and package/API compatib
 
 ## Data and reproducibility
 
-The original source datasets are preserved inside the relevant analysis folders; there is no requirement to execute notebooks in sequence. Do not interpret predictive/model uncertainty as equivalent to experimental standard deviations. The included datasets should be reviewed for distribution permissions before repository publication.
+The original source datasets are preserved inside the relevant analysis folders; there is no requirement to execute notebooks in sequence. 
 
 ## Publication and citation
 
-**Publication metadata:** Insert final article title, author list, DOI and citation when confirmed. Cite the associated JACS Au article and refer to the notebook corresponding to the analysis used.
+**Publication metadata:** TBD
 
-## License
 
-No license has been selected. See [`LICENSE_TEMPLATE.md`](LICENSE_TEMPLATE.md) and add an approved `LICENSE` file before publication. No license is implied by the public availability of this repository.
