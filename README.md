@@ -11,7 +11,7 @@ Reproducibility materials for the PET hydrolysis study. This repository organize
 | [`03_Transfer_Learning/`](03_Transfer_Learning/) | Few-shot target-only/full/calibrated transfer | LCC (440) and PHL7/PES-H1 (30) Excel worksheets |
 | [`04_Kinetic_Modeling/`](04_Kinetic_Modeling/) | PET kinetic model B, uncertainty, identifiability, pathway comparisons | Original kinetic workbook with measurements, conditions, MATLAB fits |
 
-For figure/table correspondence see [MANUSCRIPT_MAPPING.md](MANUSCRIPT_MAPPING.md). Each analysis folder includes its own `README.md` and `requirements.txt`.
+Each analysis folder includes its own `README.md` and `requirements.txt`.
 
 ## How to run
 
